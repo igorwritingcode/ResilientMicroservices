@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kiY/BlGRUyRHMrzySRmkkFCcRf0nvQ2J4ZjqY1sOGTQL1E/BtGctbuLafPvI0++yae/rSOxAwKTfKS0zcd79yA==",
+  "dgSpecHash": "wchnDjQODJ3sOGdSghSybRps0iwzRkCzUp0yU1d4HN26Ii9JMBkAlOwgCLWkqlV6epRg27QbXZN2IG14gItB4A==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\ResilientMicroservice\\Address.Api\\Address.Api.csproj",
+  "projectFilePath": "C:\\Git\\ResilientMicroservice\\Address.Api\\Address.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igor.lashchenko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\igor.lashchenko\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

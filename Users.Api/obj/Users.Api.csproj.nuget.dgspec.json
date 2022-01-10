@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj": {}
+    "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj": {
+    "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
+        "projectUniqueName": "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
         "projectName": "Users.Api",
-        "projectPath": "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
+        "projectPath": "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
         "packagesPath": "C:\\Users\\igor.lashchenko\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\ResilientMicroservice\\Users.Api\\obj\\",
+        "outputPath": "C:\\Git\\ResilientMicroservice\\Users.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

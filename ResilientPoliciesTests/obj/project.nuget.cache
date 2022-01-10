@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S60hMAuVEl14CtnIZyjrEAyOwOF4CvL56717oOnnFLRt6alA4AzYNdaY8v41mQYOWRS8rkRseGinpGvWY/G8kA==",
+  "dgSpecHash": "LR+dyaG22ogWEAHkvoEQGnCI3k0YNNnwvKOtg6N6T5X5K70jwtkMfG5kzpAYEUTES7czAtEwtxuzZxvm/aoKKQ==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj",
+  "projectFilePath": "C:\\Git\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igor.lashchenko\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
     "C:\\Users\\igor.lashchenko\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj": {}
+    "C:\\Git\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj": {
+    "C:\\Git\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj",
+        "projectUniqueName": "C:\\Git\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj",
         "projectName": "ResilientPoliciesTests",
-        "projectPath": "C:\\GIT\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj",
+        "projectPath": "C:\\Git\\ResilientMicroservice\\ResilientPoliciesTests\\ResilientPoliciesTests.csproj",
         "packagesPath": "C:\\Users\\igor.lashchenko\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\ResilientMicroservice\\ResilientPoliciesTests\\obj\\",
+        "outputPath": "C:\\Git\\ResilientMicroservice\\ResilientPoliciesTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj": {
-                "projectPath": "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj"
+              "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj": {
+                "projectPath": "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj": {
+    "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
+        "projectUniqueName": "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
         "projectName": "Users.Api",
-        "projectPath": "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
+        "projectPath": "C:\\Git\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
         "packagesPath": "C:\\Users\\igor.lashchenko\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\ResilientMicroservice\\Users.Api\\obj\\",
+        "outputPath": "C:\\Git\\ResilientMicroservice\\Users.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,6 +7,7 @@ using System;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Users.Api.Infrastructure.Exceptions;
 using Users.Api.Infrastructure.Http;
 using Users.Api.ResilientPolicies;
 using Users.Api.ResilientPolicies.Settings;
@@ -85,7 +86,7 @@ namespace ResilientPoliciesTests
 
             Func<Task> action = async () => { await httpRestClient.ExecuteRequest<object>(request); };
 
-            var response = await Assert.ThrowsAsync<DxIdmException>(action);
+            await Assert.ThrowsAsync<CustomException>(action);
         }
 
         private static RetryPolicySettings CreateRetryPolicySettings(int retryCount) => new ()
