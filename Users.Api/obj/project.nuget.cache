@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zVb3TO37oxFYjwDf39fRXJK9sur3tF2sjpMUtBQNFnW4Rfu/ZF12q5Eaps8JmUFWFyA2aRAddzgC5nfwa2Khuw==",
+  "success": true,
+  "projectFilePath": "C:\\GIT\\ResilientMicroservice\\Users.Api\\Users.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igor.lashchenko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\igor.lashchenko\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\igor.lashchenko\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512",
+    "C:\\Users\\igor.lashchenko\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\polly.contrib.waitandretry.1.1.1.nupkg.sha512",
+    "C:\\Users\\igor.lashchenko\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\igor.lashchenko\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\igor.lashchenko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\igor.lashchenko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
